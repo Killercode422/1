@@ -1,6 +1,6 @@
 #script by @venomXcrazy
 
-import telebot
+import '7929564230:AAGMvo-VtvRLDRjMgZ5H28PL9sjagqS2kIg'
 import subprocess
 import datetime
 import os
@@ -10,7 +10,7 @@ keep_alive()
 # insert your Telegram bot token here
 bot = telebot.TeleBot('7929564230:AAGMvo-VtvRLDRjMgZ5H28PL9sjagqS2kIg')
 
-# Admin user IDs
+# Admin user IDs = "6103581760"
 admin_id = ["6103581760"]
 
 # File to store allowed user IDs
